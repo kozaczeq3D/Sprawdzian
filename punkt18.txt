@@ -1,0 +1,67 @@
+*   commit 171bbde319a8c572394fb8afd354796ceb566ac5 (HEAD -> master)
+|\  Merge: cca4885 ff93ad3
+| | Author: Kowal <Domek452@gmail.com>
+| | Date:   Mon Nov 7 13:53:59 2022 +0100
+| |
+| |     scalenie wersjaB
+| |
+| * commit ff93ad339b30b2463bdb26d2caddb1509aea60c1 (wersjaB)
+| | Author: Kowal <Domek452@gmail.com>
+| | Date:   Mon Nov 7 13:47:10 2022 +0100
+| |
+| |     dodaj plik wersjaB
+| |
+* | commit cca48852246cf2cfff57db092ed2bdd97b26f651
+| | Author: Kowal <Domek452@gmail.com>
+| | Date:   Mon Nov 7 13:51:55 2022 +0100
+| |
+| |     dodanie pliku compare.txt
+| |
+* | commit e4245d9a7b3c115d22b96d89b431dc79588b9c74
+|/  Author: Kowal <Domek452@gmail.com>
+|   Date:   Mon Nov 7 13:49:49 2022 +0100
+|
+|       dodaj plik wersjaB
+|
+* commit d3cc12e486647c32612805579caa5153fe8d931f
+| Author: Kowal <Domek452@gmail.com>
+| Date:   Mon Nov 7 13:44:06 2022 +0100
+|
+|     Punkt10
+|
+* commit e102cdf380b043b29e0e0d64d278d3f43cb004ab
+| Author: Kowal <Domek452@gmail.com>
+| Date:   Mon Nov 7 13:43:54 2022 +0100
+|
+|     Punkt9
+|
+*   commit 1b93ea58c2765010053ca06999f5f0da2072c7a7
+|\  Merge: 58aa473 6380028
+| | Author: Kowal <Domek452@gmail.com>
+| | Date:   Mon Nov 7 13:37:52 2022 +0100
+| |
+| |     Merge branch 'wersjaA'
+| |
+| * commit 63800280881fc32d1d2c91639feb7c15b1429b11 (wersjaA)
+| | Author: Kowal <Domek452@gmail.com>
+| | Date:   Mon Nov 7 13:34:46 2022 +0100
+| |
+| |     dodaj plik wersjaA
+| |
+* | commit 58aa473c6824880a1cac77e8c00eb7612aad7083
+|/  Author: Kowal <Domek452@gmail.com>
+|   Date:   Mon Nov 7 13:37:41 2022 +0100
+|
+|       Punkt 7
+|
+* commit 328d69efbe5f65dfdc8fcdea4543a72157070179
+| Author: Kowal <Domek452@gmail.com>
+| Date:   Mon Nov 7 13:29:00 2022 +0100
+|
+|     Wykonaj pierwsze czynności
+|
+* commit ea7affd01e81375a108d641a47c153ebe5dfc0d0
+  Author: Kowal <Domek452@gmail.com>
+  Date:   Mon Nov 7 13:25:58 2022 +0100
+
+      Rozpoczęcie projektu
