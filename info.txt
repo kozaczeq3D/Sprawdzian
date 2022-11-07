@@ -1,0 +1,7 @@
+cd documents
+mkdir Spr_git_Dominik_Kowalczyk
+cd Spr_git_Dominik_Kowalczyk
+touch info.txt
+git status
+git add .
+git commit -m "Rozpoczęcie projektu"
